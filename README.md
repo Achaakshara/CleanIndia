@@ -17,11 +17,9 @@ Pull requests are welcome. For major changes please open an issue first to discu
 
 ## Acknowledgement
 
-https://help.github.com/en/articles/about-readmes
-
 https://www.youtube.com/watch?v=xuB1Id2Wxak
 
-Encouragement.
+Inspiration.
 
 ## License
 
