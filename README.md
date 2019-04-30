@@ -18,7 +18,10 @@ Pull requests are welcome. For major changes please open an issue first to discu
 ## Acknowledgement
 
 https://www.youtube.com/watch?v=xuB1Id2Wxak
+
 Encouragement.
 
 ## License
+
+MIT
 
