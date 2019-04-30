@@ -5,5 +5,5 @@ This is java based project which deals with recycle kiosks at various places to 
 
 ## Installation
 
-Softwares that are need to be installed are eclipse IDE , Apache tomcat server of any version and Database to store user details,recycle wastage information,generating coupons and validation.
+Softwares that are need to be installed are eclipse IDE , Apache tomcat server of any version and Database to store userdetails,recycle wastage information,generating coupons and validation.
 
